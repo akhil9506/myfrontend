@@ -1,0 +1,9 @@
+body{
+  background-color:   #99adff;
+  border: #3333ff solid 40px;
+  margin: 0px;
+}
+h1{
+  text-align: center;
+  text-shadow: -1px 1px 10px rgba(77, 112, 255, 1);
+}

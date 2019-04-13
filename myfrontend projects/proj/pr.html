@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+     <p id="demo">please visit microsoft</p>
+     <button onclick = "myfunc()"></button>
+
+  </body>
+  <script type="text/javascript">
+    function myfunc(){
+      var str = document.getElementById("demo").innerHTML;
+      var s = str.replace("microsoft","google");
+      document.getElementById("demo").innerHTML = s;
+      console.log(s);
+      document.getElementById("demo").innerHTML ="qrggrre";
+      alert("akhil");
+
+    }
+  </script>
+</html>

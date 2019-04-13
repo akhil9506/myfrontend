@@ -1,0 +1,39 @@
+#logo{
+  display: flex;
+  flex: auto;
+  text-align: right;
+}
+#con{
+  border:red solid 1px;
+  background-color: yellow;
+  border-radius: 2px;
+  padding: 1px;
+  margin-top: 15px;
+}
+#proj{
+  border: red solid 1px;
+  background-color: yellow;
+  border-radius: 2px;
+  padding: 1px;
+  text-decoration: none;
+}
+
+
+#don{
+  font-size: 25px;
+  border:red solid 1px;
+  background-color: yellow;
+  padding: 10px
+}
+
+#as{
+  width: 100%;
+}
+#con{
+  text-decoration: none;
+}
+
+body{
+  background-color: rgb(255,102,0);
+  margin: 0px;
+}

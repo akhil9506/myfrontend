@@ -1,0 +1,14 @@
+p{
+  color: blue;
+}
+h1{
+  color: rgba(300,153,3,1);
+}
+div{
+  background-color: green;
+}
+body{
+  border-color: yellow;
+  border-width: thick;
+  border-style: dashed;
+}
